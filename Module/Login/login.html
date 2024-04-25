@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <!-- link bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+    <div class="ecommerce-container container-fluid">
+        <div class="row">
+            <div class="col">
+                <!-- login -->
+                <div class="container" id="login">
+                    <div class="login-image">
+                        <img
+                            src="https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg">
+                    </div>
+                    <div class="pop-up text-center">
+                        <p class="text-white">Don't Have An Account ? <span href="" id="open-signup"
+                                onclick="setSignup()">Create Account</span></p>
+                    </div>
+                    <div class="login-container">
+                        <form action="">
+                            <div class="email-container text-end">
+                                <input class="form-control" type="email" placeholder="Username" id="userName">
+                            </div>
+                            <div class="pass-container text-end">
+                                <input class="form-control" type="password" placeholder="password" id="userPass">
+                                <a href="">Forget Password?</a>
+                            </div>
+                            <div class="submit-container mt-3">
+                                <button type="button" class="btn btn-info" onclick="allowLogin()">Login</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- sign-up -->
+                <div class="container" id="sign-up">
+                    <div class="login-image">
+                        <img
+                            src="https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg">
+                    </div>
+                    <div class="pop-up text-center">
+                        <p class="text-white">Already have an account ? <span href="" id="open-login"
+                                onclick="setLogin()">login</span></p>
+                    </div>
+                    <div class="login-container">
+                        <form action="">
+                            <div class="name-container input-group d-flex text-end">
+                                <input class="form-control" type="Name" placeholder="First Name" id="firstName">
+                                <input class="form-control" type="Name" placeholder="Last Name" id="lastName">
+                                <span id="errorName"></span>
+                            </div>
+                            <div class="mob-container text-end">
+                                <input class="form-control" type="tel" placeholder="Mobile No" id="mob">
+                                <span id="errorMob"></span>
+                            </div>
+                            <div class="email-container text-end">
+                                <input class="form-control" type="email" placeholder="Your Email" id="email">
+                                <span id="errorEmail" class="text-danger"></span>
+                            </div>
+                            <div class="pass-container text-end">
+                                <input class="form-control" type="password" placeholder="Your password" id="pass">
+                            </div>
+                            <div class="confpass-container text-end">
+                                <input class="form-control" type="password" placeholder="Confirm password"
+                                    id="confPass">
+                            <span id="errorpass" class="text-danger"></span>
+                            </div>
+                            <div class="submit-container mt-3">
+                                <button type="button" class="btn btn-info" onclick="createAccount()">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="rightlogin">
+                    <div class="loginImage">
+                        <img
+                            src="https://img.freepik.com/free-vector/instagram-shop-logo-design_23-2149750724.jpg?size=626&ext=jpg">
+                            <h2>Ecommerce</h2>
+                    </div>
+                    <div class="loginText">
+                        <h1>Join us in your shooping journey and explore new styles...</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- link script -->
+    <script src="login.js"></script>
+</body>
+
+</html>

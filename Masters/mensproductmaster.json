@@ -1,0 +1,435 @@
+[
+    {
+        "id" : 1,
+        "img" : "https://images.bewakoof.com/t640/men-s-black-ghost-rider-spirit-of-vengeance-graphic-printed-oversized-t-shirt-604148-1694764028-1.jpg",
+        "name" : "Black Ghost Rider Spirit",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-black-ghost-rider-spirit-of-vengeance-graphic-printed-oversized-t-shirt-604148-1694764028-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-ghost-rider-spirit-of-vengeance-graphic-printed-oversized-t-shirt-604148-1694764034-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-ghost-rider-spirit-of-vengeance-graphic-printed-oversized-t-shirt-604148-1694764045-4.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-ghost-rider-spirit-of-vengeance-graphic-printed-oversized-t-shirt-604148-1694764056-6.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-ghost-rider-spirit-of-vengeance-graphic-printed-oversized-t-shirt-604148-1694764061-7.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-ghost-rider-spirit-of-vengeance-graphic-printed-oversized-t-shirt-604148-1704091204-10.jpeg"
+                     ]
+    },
+    {
+        "id" : 2,
+        "img" : "https://images.bewakoof.com/t1080/men-s-red-striped-oversized-t-shirt-425013-1667553371-1.jpg",
+        "name" : "Red Cobbom Graphic Printer",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-red-striped-oversized-t-shirt-425013-1667553371-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-red-striped-oversized-t-shirt-425013-1667553376-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-red-striped-oversized-t-shirt-425013-1667553392-5.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-red-striped-oversized-t-shirt-425013-1667553403-7.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-red-striped-oversized-t-shirt-425013-1667553408-8.jpg"
+                     ]
+    },
+    {
+        "id" : 3,
+        "img" : "https://images.bewakoof.com/t1080/men-s-dark-shadow-color-block-oversized-t-shirt-627850-1707977028-1.jpg",
+        "name" : "Blue Blck Panther",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-dark-shadow-color-block-oversized-t-shirt-627850-1707977028-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-dark-shadow-color-block-oversized-t-shirt-627850-1707977034-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-dark-shadow-color-block-oversized-t-shirt-627850-1707977044-4.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-dark-shadow-color-block-oversized-t-shirt-627850-1707977055-6.jpg"
+                     ]
+    }, 
+    {
+        "id" : 4,
+        "img" : "https://images.bewakoof.com/t640/men-s-pink-oversized-t-shirt-540860-1675062993-1.jpg",
+        "name" : "Pink Oversized T-Shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 5,
+        "img" : "https://images.bewakoof.com/t640/men-s-tender-touch-solid-t-shirt-502787-1682428959-1.JPG",
+        "name" : "Pink Oversized T-Shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 6,
+        "img" : "https://images.bewakoof.com/t640/men-s-green-cosensei-graphic-printed-oversized-t-shirt-620624-1697814478-1.jpg",
+        "name" : "Green Sensie",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 7,
+        "img" : "https://images.bewakoof.com/t640/men-s-brown-oversized-t-shirt-555522-1707221351-1.jpg",
+        "name" : "Brown Oversized T-Shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 8,
+        "img" : "https://images.bewakoof.com/t640/men-s-black-oversized-t-shirt-555447-1709123106-1.jpg",
+        "name" : "Plane Black Oversized T-Shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 9,
+        "img" : "https://images.bewakoof.com/t640/men-s-brown-oversized-co-ordinates-617341-1707200134-1.jpg",
+        "name" : "Mens Brown Oversized",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 10,
+        "img" : "https://images.bewakoof.com/t640/men-s-white-all-over-printed-oversized-co-ordinates-584374-1701340374-1.jpg",
+        "name" : "Mens White oversized",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 11,
+        "img" : "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg",
+        "name" : "Blue Blck Panther",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    }, 
+    {
+        "id" : 12,
+        "img" : "https://images.bewakoof.com/t640/men-s-grey-bugs-bunny-expression-printed-super-loose-co-ordinates-617333-1702297801-1.jpg",
+        "name" : "Grey Bugs Bunny",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 13,
+        "img" : "https://images.bewakoof.com/t640/men-s-blue-all-over-printed-oversized-co-ordinates-597298-1702897324-1.jpg",
+        "name" : "Mens Blue Typography Oversized",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+
+    },
+    {
+        "id" : 14,
+        "img" : "https://images.bewakoof.com/t640/men-s-black-down-town-typography-oversized-co-ord-set-516702-1707215433-1.jpg",
+        "name" : "Mens black Down Town",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 15,
+        "img" : "https://images.bewakoof.com/t640/men-s-green-striped-co-ord-sets-516329-1657020075-1.JPG",
+        "name" : "Mens Green Striped Co-Ord Set",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 16,
+        "img" : "https://images.bewakoof.com/t640/men-s-dark-grey-oversized-co-ordinates-633899-1710400931-1.jpg",
+        "name" : "Mens Dark Grey Oversized",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+                     ]
+    },
+    {
+        "id" : 17,
+        "img" : "https://images.bewakoof.com/t1080/men-oversized-tie-dye-t-shirt-568208-1682429565-1.JPG",
+        "name" : "Men's Off White Tie & Dye Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-oversized-tie-dye-t-shirt-568208-1682429565-1.JPG",
+                     "https://images.bewakoof.com/original/men-oversized-tie-dye-t-shirt-568208-1682429570-2.JPG",
+                     "https://images.bewakoof.com/t1080/men-oversized-tie-dye-t-shirt-568208-1682429575-3.JPG",
+                     "https://images.bewakoof.com/t1080/men-oversized-tie-dye-t-shirt-568208-1682429591-6.JPG",
+                     "https://images.bewakoof.com/t1080/men-oversized-tie-dye-t-shirt-568208-1682429602-8.jpg"
+                     ]
+    },
+    {
+        "id" : 18,
+        "img" : "https://images.bewakoof.com/t1080/men-s-oversized-colourblock-t-shirt-630861-1709559022-1.jpg",
+        "name" : "Men's Green & Blue B League Color Block Oversized Polo T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-oversized-colourblock-t-shirt-630861-1709559022-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-oversized-colourblock-t-shirt-630861-1709559027-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-oversized-colourblock-t-shirt-630861-1709559032-3.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-oversized-colourblock-t-shirt-630861-1709559043-5.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-oversized-colourblock-t-shirt-630861-1709559048-6.jpg"
+                     ]
+    },
+    {
+        "id" : 19,
+        "img" : "https://images.bewakoof.com/t1080/men-s-white-classic-mickey-f-b-graphic-printed-oversized-t-shirt-591190-1685027774-1.jpg",
+        "name" : "Men's White Classic Mickey F&B Graphic Printed Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-white-classic-mickey-f-b-graphic-printed-oversized-t-shirt-591190-1685027774-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-white-classic-mickey-f-b-graphic-printed-oversized-t-shirt-591190-1685027780-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-white-classic-mickey-f-b-graphic-printed-oversized-t-shirt-591190-1685027785-3.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-white-classic-mickey-f-b-graphic-printed-oversized-t-shirt-591190-1685027802-6.jpg"
+                     ]
+    }, 
+    {
+        "id" : 20,
+        "img" : "https://images.bewakoof.com/t1080/men-s-black-eye-on-the-ball-typography-oversized-t-shirt-592516-1691649612-1.jpg",
+        "name" : "Men's Black Eye On The Ball Typography Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-black-eye-on-the-ball-typography-oversized-t-shirt-592516-1691649617-2.jpg",
+                     "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-eye-on-the-ball-typography-oversized-t-shirt-592516-1691649622-3.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-eye-on-the-ball-typography-oversized-t-shirt-592516-1691649633-5.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-eye-on-the-ball-typography-oversized-t-shirt-592516-1691649645-7.jpg"
+                     ]
+    },
+    {
+        "id" : 21,
+        "img" : "https://images.bewakoof.com/t1080/men-s-white-all-over-printed-t-shirt-628848-1711632420-1.jpg",
+        "name" : "Men's White All Over Printed Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-white-all-over-printed-t-shirt-628848-1711632420-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-white-all-over-printed-t-shirt-628848-1711632426-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-white-all-over-printed-t-shirt-628848-1711632437-4.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-white-all-over-printed-t-shirt-628848-1711632448-6.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-white-all-over-printed-t-shirt-628848-1711632454-7.jpg"
+                     ]
+    },
+    {
+        "id" : 22,
+        "img" : "https://images.bewakoof.com/t1080/men-s-green-spain-ombre-oversized-t-shirt-616999-1705390460-1.jpg",
+        "name" : "Men's Green & White Spiderman Ombre Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-green-spain-ombre-oversized-t-shirt-616999-1705390460-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-green-spain-ombre-oversized-t-shirt-616999-1705390466-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-green-spain-ombre-oversized-t-shirt-616999-1705390476-4.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-green-spain-ombre-oversized-t-shirt-616999-1705390487-6.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-green-spain-ombre-oversized-t-shirt-616999-1705390492-7.jpg?tr=q-100"
+                     ]
+    },
+    {
+        "id" : 23,
+        "img" : "https://images.bewakoof.com/t1080/men-s-green-yellow-ombre-t-shirt-617000-1702294764-1.jpg",
+        "name" : "Men's Green & Yellow Ombre Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-green-yellow-ombre-t-shirt-617000-1702294764-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-green-yellow-ombre-t-shirt-617000-1702294770-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-green-yellow-ombre-t-shirt-617000-1702294780-4.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-green-yellow-ombre-t-shirt-617000-1702294786-5.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-green-yellow-ombre-t-shirt-617000-1702294791-6.jpg"
+                     ]
+    },
+    {
+        "id" : 24,
+        "img" : "https://images.bewakoof.com/t1080/men-s-black-embroidered-oversized-t-shirt-617353-1698417755-1.jpg",
+        "name" : "Men's Black Embroidered Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-black-embroidered-oversized-t-shirt-617353-1698417761-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-embroidered-oversized-t-shirt-617353-1697722326-3.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-embroidered-oversized-t-shirt-617353-1698417777-5.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-embroidered-oversized-t-shirt-617353-1698417755-1.jpg"
+                     ]
+    },
+    {
+        "id" : 25,
+        "img" : "https://images.bewakoof.com/t1080/men-s-pink-avatar-aang-graphic-printed-oversized-t-shirt-630927-1707995336-1.jpg",
+        "name" : "Men's Pink Avatar Aang Graphic Printed Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-pink-avatar-aang-graphic-printed-oversized-t-shirt-630927-1707995342-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-pink-avatar-aang-graphic-printed-oversized-t-shirt-630927-1707995353-4.jpg"          
+                     ]
+    },
+    {
+        "id" : 26,
+        "img" : "https://images.bewakoof.com/t1080/men-s-black-aang-the-legend-graphic-printed-oversized-t-shirt-630714-1707995555-1.jpg",
+        "name" : "Men's Black Aang The Legend Graphic Printed Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-black-aang-the-legend-graphic-printed-oversized-t-shirt-630714-1707995555-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-aang-the-legend-graphic-printed-oversized-t-shirt-630714-1707995561-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-aang-the-legend-graphic-printed-oversized-t-shirt-630714-1707995572-4.jpg"
+                     ]
+    },
+    {
+        "id" : 27,
+        "img" : "https://images.bewakoof.com/t1080/men-printed-oversized-t-shirt-56-582797-1696327427-1.jpg",
+        "name" : "Men's Brown Disorder Typography Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-printed-oversized-t-shirt-56-582797-1696327427-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-printed-oversized-t-shirt-56-582797-1696327433-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-printed-oversized-t-shirt-56-582797-1696327449-5.jpg",
+                     "https://images.bewakoof.com/t1080/men-printed-oversized-t-shirt-56-582797-1696327454-6.jpg",
+                     "https://images.bewakoof.com/t1080/men-printed-oversized-t-shirt-56-582797-1696327460-7.jpg?tr=q-100"
+                     ]
+    }, 
+    {
+        "id" : 28,
+        "img" : "https://images.bewakoof.com/t1080/men-s-white-t-shirt-105-1702967985-1.jpg",
+        "name" : "Men's White T-shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/white-half-sleeve-t-shirt-105-1666332517-2.jpg",
+                     "https://images.bewakoof.com/t1080/white-half-sleeve-t-shirt-105-1666332523-3.jpg",
+                     "https://images.bewakoof.com/t1080/white-half-sleeve-t-shirt-105-1666332533-5.jpg",
+                     "https://images.bewakoof.com/t1080/white-half-sleeve-t-shirt-105-1666332539-6.jpg"
+                     ]
+    },
+    {
+        "id" : 29,
+        "img" : "https://images.bewakoof.com/t1080/men-s-black-beauty-color-block-oversized-t-shirt-627836-1710152563-1.jpg",
+        "name" : "Men's Black Oversized T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-black-beauty-color-block-oversized-t-shirt-627836-1710152563-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-beauty-color-block-oversized-t-shirt-627836-1710152569-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-beauty-color-block-oversized-t-shirt-627836-1710152581-4.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-beauty-color-block-oversized-t-shirt-627836-1710152593-6.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-beauty-color-block-oversized-t-shirt-627836-1710152599-7.jpg"
+                     ]
+
+    },
+    {
+        "id" : 30,
+        "img" : "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-617065-1703579739-1.jpg",
+        "name" : "Men's Navy Blue T-shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-617065-1703579745-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-617065-1703579750-3.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-617065-1703579760-5.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-blue-t-shirt-617065-1703579766-6.jpg"
+                     ]
+    },
+    {
+        "id" : 31,
+        "img" : "https://images.bewakoof.com/t1080/men-regular-solid-t-shirt-617266-1703670167-1.jpg",
+        "name" : "Men's Orange T-shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-regular-solid-t-shirt-617266-1703670172-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-regular-solid-t-shirt-617266-1703670178-3.jpg",
+                     "https://images.bewakoof.com/t1080/men-regular-solid-t-shirt-617266-1703670193-6.jpg",
+                     "https://images.bewakoof.com/t1080/men-regular-solid-t-shirt-617266-1703670188-5.jpg"
+                     ]
+    },
+    {
+        "id" : 32,
+        "img" : "https://images.bewakoof.com/t1080/men-s-black-super-loose-acid-wash-t-shirt-620449-1705390376-1.jpg",
+        "name" : "Men's Black Super Loose Fit Acid Wash T-shirt",
+        "prise" : "$599",
+        "orignalprise" : "$800",
+        "otherimages" : 
+                     [
+                     "https://images.bewakoof.com/t1080/men-s-black-super-loose-acid-wash-t-shirt-620449-1705390381-2.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-super-loose-acid-wash-t-shirt-620449-1705390392-5.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-super-loose-acid-wash-t-shirt-620449-1705390397-6.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-super-loose-acid-wash-t-shirt-620449-1705390376-1.jpg",
+                     "https://images.bewakoof.com/t1080/men-s-black-super-loose-acid-wash-t-shirt-620449-1705390402-7.jpg"
+                     ]
+    }
+]

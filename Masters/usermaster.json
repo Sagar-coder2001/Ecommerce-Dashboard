@@ -1,0 +1,46 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "firstName": "sagar",
+        "lastName": "shinde",
+        "mob": "23243545645",
+        "email": "shindesaahjha2329@gmail.com",
+        "pass": "",
+        "confPass": "87654321"
+      },
+      {
+        "id": 2,
+        "firstName": "shubham",
+        "lastName": "shinde",
+        "mob": "65656535334",
+        "email": "shindesagar01677@gmail.com",
+        "pass": "",
+        "confPass": "2323232"
+      },
+      {
+        "id": 3,
+        "firstName": "rohit",
+        "lastName": "shinde",
+        "mob": "65656535334",
+        "email": "ttrg@gmail.com",
+        "pass": ""
+      },
+      {
+        "id": 4,
+        "firstName": "rohit",
+        "lastName": "patil",
+        "mob": "343555454544",
+        "email": "fr5rt43rt4@gmail.com",
+        "pass": "rohit123"
+      },
+      {
+        "id": 5,
+        "firstName": "ashish",
+        "lastName": "gurav",
+        "mob": "4636563433",
+        "email": "ashish23232@gmail.com",
+        "pass": "ashish123"
+      }
+    ]
+  }

@@ -1,0 +1,99 @@
+.ecommerce-container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)),url("https://images.pexels.com/photos/5632371/pexels-photo-5632371.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5632371.jpg&fm=jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.container{
+    width: 400px;
+    padding: 8px;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px #0dcaf0;
+}
+.login-image{
+    text-align: center;
+}
+.login-image img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    background-size: cover;
+    margin: 20px 0px;
+    border-radius: 50%;
+}
+.login-container{
+    width: 90%;
+    margin: 0px auto;
+}
+form input{
+    width: 100%;
+    border: none;
+    outline: none;
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 8px;
+    font-size: 16px;
+    color: white;
+    border-radius: 4px;
+}
+form .text-end{
+    margin-bottom: 10px;
+}
+.submit-container{
+    text-align: center;
+}
+.submit-container button{
+    padding: 8px 10px;
+}
+.pop-up span{
+    color: blue;
+    font-size: 18px;
+    cursor: pointer;
+}
+.rightlogin{
+    margin-top: 160px;
+}
+.loginText>h1{
+    color: #fff;
+    padding: 20px;
+}
+.loginImage img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    padding: 10px;
+}
+.loginImage h2{
+    display: inline;
+    color: white;
+}
+.confpass-container input{
+    margin-bottom: 0px;
+}
+@media screen and (max-width: 450px) {
+    .container{
+        width: 300px;
+        border: 1px solid white;
+        padding: 4px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        background-color: black;
+        border-radius: 4px;
+    }
+}
+@media screen and (max-width:900px) {
+    .row{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+    }  
+}

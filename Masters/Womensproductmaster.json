@@ -1,0 +1,397 @@
+[
+    {
+        "id" : "1",
+        "img" : "https://th.bing.com/th/id/OIP.sN03aDZKtVnaNaqDLh9aQAHaMV?w=178&h=267&c=7&r=0&o=5&pid=1.7",
+        "name" : "Dress",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "2",
+        "img" : "https://th.bing.com/th/id/OIP.bipAkQOag6A_65m5l88KGgAAAA?w=178&h=297&c=7&r=0&o=5&pid=1.7",
+        "name" : "Holiday Cocktail Dressess",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "3",
+        "img" : "https://th.bing.com/th/id/OIP.MKZmqPzdAtYphStzg3uN8AHaLH?pid=ImgDet&w=179&h=268&c=7",
+        "name" : "Holiday Cocktail Dressess",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    }, 
+    {
+        "id" : "4",
+        "img" : "https://images.bewakoof.com/t640/women-s-black-textured-hoodies-596579-1697802234-1.jpg",
+        "name" : "black textured hoodie",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "5",
+        "img" : "https://images.bewakoof.com/t640/women-s-brown-elly-graphic-printed-oversized-t-shirt-dress-614100-1702287096-1.jpg",
+        "name" : "Brown Elly Graphic Print",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "6",
+        "img" : "https://images.bewakoof.com/t640/women-s-beige-blue-oversized-t-shirt-dress-614099-1706768580-1.jpg",
+        "name" : "Womens Beige and Blue Ombre",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "7",
+        "img" : "https://images.bewakoof.com/t640/women-s-wild-berry-relaxed-fit-a-line-dress-633736-1709113957-1.jpg",
+        "name" : "Wild Berry Relaxed",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "8",
+        "img" : "https://images.bewakoof.com/t640/women-s-pink-checked-loose-fit-shirt-dress-625261-1697095527-1.jpg",
+        "name" : "Pink Checked Loose",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "9",
+        "img" : "https://images.bewakoof.com/t640/women-s-maroon-black-checked-oversized-crop-shirt-635656-1711025255-1.jpg",
+        "name" : "Dress",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "10",
+        "img" : "https://images.bewakoof.com/t640/women-s-white-peeking-army-graphic-printed-boyfriend-t-shirt-519415-1680593017-1.jpg",
+        "name" : "Holiday Cocktail Dressess",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "11",
+        "img" : "https://images.bewakoof.com/t640/women-s-aop-crop-top-605114-1702296546-1.jpg",
+        "name" : "Holiday Cocktail Dressess",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    }, 
+    {
+        "id" : "12",
+        "img" : "https://images.bewakoof.com/t640/women-stripe-slim-fit-top-2-620173-1704692153-1.jpg",
+        "name" : "black textured hoodie",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "13",
+        "img" : "https://images.bewakoof.com/t640/women-s-blue-friends-chibi-logo-graphic-printed-oversized-short-top-625649-1703684790-1.jpg",
+        "name" : "Brown Elly Graphic Print",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "14",
+        "img" : "https://images.bewakoof.com/t640/women-s-maroon-pie-printed-oversized-short-top-603378-1704697496-1.jpg",
+        "name" : "Womens Beige and Blue Ombre",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "15",
+        "img" : "https://images.bewakoof.com/t640/women-s-white-lead-printed-oversized-crop-shirt-628169-1711613412-1.jpg",
+        "name" : "Wild Berry Relaxed",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "16",
+        "img" : "https://images.bewakoof.com/t640/women-oversized-aop-shirt-5-617277-1706768554-1.jpg",
+        "name" : "Pink Checked Loose",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "17",
+        "img" : "https://images.bewakoof.com/t640/women-s-maroon-black-checked-oversized-shirt-635651-1711024981-1.jpg",
+        "name" : "Brown Elly Graphic Print",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "18",
+        "img" : "https://images.bewakoof.com/t640/women-s-multicolor-all-over-printed-oversized-crop-shirt-628170-1711613675-1.jpg",
+        "name" : "Womens Beige and Blue Ombre",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "19",
+        "img" : "https://images.bewakoof.com/t640/women-s-maroon-black-checked-oversized-crop-shirt-maroon-635664-1711025102-1.jpg",
+        "name" : "Wild Berry Relaxed",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "20",
+        "img" : "https://images.bewakoof.com/t640/women-s-green-blue-checked-oversized-shirt-635661-1711024428-1.jpg",
+        "name" : "Pink Checked Loose",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t640/men-s-red-kaboom-graphic-printed-oversized-t-shirt-584919-1709531620-1.jpg",
+        "https://images.bewakoof.com/t640/men-s-blue-black-panther-graphic-printed-oversized-t-shirt-604522-1702979009-1.jpg"
+        ]
+    },
+    {
+        "id" : "21",
+        "img" : "https://images.bewakoof.com/t1080/women-s-multicolor-all-over-printed-oversized-crop-shirt-628170-1711613675-1.jpg",
+        "name" : "Women's Green All Over Printed Oversized Crop Shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-multicolor-all-over-printed-oversized-crop-shirt-628170-1711613681-2.jpg",
+        "https://images.bewakoof.com/t1080/women-s-multicolor-all-over-printed-oversized-crop-shirt-628170-1711613687-3.jpg",
+        "https://images.bewakoof.com/t1080/women-s-multicolor-all-over-printed-oversized-crop-shirt-628170-1711613692-4.jpg",
+        "https://images.bewakoof.com/t1080/women-s-multicolor-all-over-printed-oversized-crop-shirt-628170-1711613698-5.jpg"
+        ]
+    },
+    {
+        "id" : "22",
+        "img" : "https://images.bewakoof.com/t1080/women-s-blue-crop-shirt-633849-1709728760-1.jpg",
+        "name" : "Women's Blue Crop Shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-blue-crop-shirt-633849-1709728765-2.jpg",
+        "https://images.bewakoof.com/t1080/women-s-blue-crop-shirt-633849-1709728769-3.jpg",
+        "https://images.bewakoof.com/t1080/women-s-blue-crop-shirt-633849-1709728778-5.jpg",
+        "https://images.bewakoof.com/t1080/women-s-blue-crop-shirt-633849-1709728783-6.jpg"
+        ]
+    }, 
+    {
+        "id" : "23",
+        "img" : "https://images.bewakoof.com/t1080/women-s-green-oversized-t-shirt-612478-1700657079-1.jpg",
+        "name" : "Women's Green Oversized T-shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-green-oversized-t-shirt-612478-1700657085-2.JPG",
+        "https://images.bewakoof.com/t1080/women-s-green-oversized-t-shirt-612478-1700657090-3.jpg",
+        "https://images.bewakoof.com/t1080/women-s-green-oversized-t-shirt-612478-1700657101-5.jpg",
+        "https://images.bewakoof.com/t1080/women-s-green-oversized-t-shirt-612478-1700657106-6.jpg"
+        ]
+    },
+    {
+        "id" : "24",
+        "img" : "https://images.bewakoof.com/t1080/women-s-black-friends-feelings-graphic-printed-oversized-t-shirt-628111-1704717245-1.jpg",
+        "name" : "Women's Black Friends",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-black-friends-feelings-graphic-printed-oversized-t-shirt-628111-1704717251-2.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-friends-feelings-graphic-printed-oversized-t-shirt-628111-1704717256-3.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-friends-feelings-graphic-printed-oversized-t-shirt-628111-1704717267-5.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-friends-feelings-graphic-printed-oversized-t-shirt-628111-1704717272-6.jpg"
+        ]
+    },
+    {
+        "id" : "25",
+        "img" : "https://images.bewakoof.com/t1080/women-s-black-gradenia-super-loose-fit-sweater-608088-1707215243-1.jpg",
+        "name" : "Women's Black & Gradenia Super Loose Fit Sweater",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-black-gradenia-super-loose-fit-sweater-608088-1703686987-2.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-gradenia-super-loose-fit-sweater-608088-1703686998-4.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-gradenia-super-loose-fit-sweater-608088-1703687008-6.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-gradenia-super-loose-fit-sweater-608088-1707215243-1.jpg"
+        ]
+    },
+    {
+        "id" : "26",
+        "img" : "https://images.bewakoof.com/t1080/women-s-pink-oversized-flatknit-sweater-597212-1703689155-1.jpg",
+        "name" : "Women's Pink Oversized Flatknit Sweater",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-pink-oversized-flatknit-sweater-597212-1703689161-2.jpg",
+        "https://images.bewakoof.com/t1080/women-s-pink-oversized-flatknit-sweater-597212-1703689171-4.jpg",
+        "https://images.bewakoof.com/t1080/women-s-pink-oversized-flatknit-sweater-597212-1703689176-5.jpg",
+        "https://images.bewakoof.com/t1080/women-s-pink-oversized-flatknit-sweater-597212-1703689181-6.jpg"
+        ]
+    },
+    {
+        "id" : "27",
+        "img" : "https://images.bewakoof.com/t1080/women-s-black-heart-graphic-printed-super-loose-flatknit-sweater-597200-1703689282-1.jpg",
+        "name" : "Women's Black Heart Graphic Printed Super Loose Fit Flatknit Sweater",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-black-heart-graphic-printed-super-loose-flatknit-sweater-597200-1703689287-2.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-heart-graphic-printed-super-loose-flatknit-sweater-597200-1703689298-4.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-heart-graphic-printed-super-loose-flatknit-sweater-597200-1703689303-5.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-heart-graphic-printed-super-loose-flatknit-sweater-597200-1703689308-6.jpg"
+        ]
+    },
+    {
+        "id" : "28",
+        "img" : "https://images.bewakoof.com/t1080/women-s-white-solid-oversized-jackets-601597-1695384300-1.jpg",
+        "name" : "Women's White & Blue Typography Oversized Jackets",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-white-solid-oversized-jackets-601597-1695384306-2.jpg",
+        "https://images.bewakoof.com/t1080/women-s-white-solid-oversized-jackets-601597-1695384311-3.jpg",
+        "https://images.bewakoof.com/t1080/women-s-white-solid-oversized-jackets-601597-1695384316-4.jpg",
+        "https://images.bewakoof.com/t1080/women-s-white-solid-oversized-jackets-601597-1695384322-5.jpg"
+        ]
+    },
+    {
+        "id" : "29",
+        "img" : "https://images.bewakoof.com/t1080/women-s-black-wanderlust-graphic-printed-oversized-t-shirt-630876-1707387719-1.jpg",
+        "name" : "Women's Black Wanderlust Graphic Printed Oversized T-shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-black-wanderlust-graphic-printed-oversized-t-shirt-630876-1707387725-2.jpg?tr=q-100",
+        "https://images.bewakoof.com/t1080/women-s-black-wanderlust-graphic-printed-oversized-t-shirt-630876-1707387735-4.jpg?tr=q-100",
+        "https://images.bewakoof.com/t1080/women-s-black-wanderlust-graphic-printed-oversized-t-shirt-630876-1707387746-6.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-wanderlust-graphic-printed-oversized-t-shirt-630876-1707387751-7.jpg"
+        ]
+    },
+    {
+        "id" : "30",
+        "img" : "https://images.bewakoof.com/t640/women-s-maroon-black-checked-oversized-crop-shirt-maroon-635664-1711025102-1.jpg",
+        "name" : "Women's White & Purple Tie & Dye Oversized T-shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-oversized-tie-dye-t-shirt-568207-1682421188-2.JPG",
+        "https://images.bewakoof.com/t1080/women-oversized-tie-dye-t-shirt-568207-1682421193-3.JPG",
+        "https://images.bewakoof.com/t1080/women-oversized-tie-dye-t-shirt-568207-1682421204-5.jpg",
+        "https://images.bewakoof.com/t1080/women-oversized-tie-dye-t-shirt-568207-1682421210-6.JPG",
+        "https://images.bewakoof.com/t1080/women-oversized-tie-dye-t-shirt-568207-1682421215-7.jpg?tr=q-100"
+        ]
+    },
+    {
+        "id" : "31",
+        "img" : "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751940-1.jpg",
+        "name" : "Women's Black Been There Graphic Printed Boyfriend T-shirt",
+        "orignalprise" : "$800",
+        "prise" : "$599",
+        "otherimages" : 
+        [
+        "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751945-2.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751950-3.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751961-5.jpg",
+        "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751966-6.jpg"
+        ]
+    }
+]
